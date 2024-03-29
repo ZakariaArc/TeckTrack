@@ -1,4 +1,4 @@
-# TechTrack MVP
+# TechTrack
 Welcome to TechTrack, your go-to platform for tutorials and courses!
 
 ## Description
